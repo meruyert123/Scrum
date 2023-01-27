@@ -7,7 +7,6 @@
 
 import SwiftUI
 
-
 struct ThemePicker: View {
     @Binding var selection: Theme
     
